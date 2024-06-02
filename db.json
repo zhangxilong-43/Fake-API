@@ -4,9 +4,7 @@
             "name": "react-h5-template"
         }
     ],
-    "tags": [
-        {
-            "tag": "0.0.1"
-        }
-    ]
+    "tags": {
+        "react-h5-template": "0.0.1"
+    }
 }
