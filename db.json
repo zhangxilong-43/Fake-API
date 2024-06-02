@@ -1,12 +1,12 @@
 {
-  repoList: [
-    {
-      name: 'react-h5-template'
-    }
-  ],
-  tags: [
-    {
-      tag: '0.0.1'
-    }
-  ]
+    "repoList": [
+        {
+            "name": "react-h5-template"
+        }
+    ],
+    "tags": [
+        {
+            "tag": "0.0.1"
+        }
+    ]
 }
