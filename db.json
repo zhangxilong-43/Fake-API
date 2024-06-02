@@ -5,6 +5,6 @@
         }
     ],
     "tags": {
-        "react-h5-template": "0.0.1"
+        "react-h5-template": ["master", "main"]
     }
 }
