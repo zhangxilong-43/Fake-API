@@ -8,7 +8,12 @@
         }
     ],
     "tags": {
-        "react-h5-template": ["master", "main"],
-        "react-project-template": ["master"],
+        "react-h5-template": [
+            "master",
+            "main"
+        ],
+        "react-project-template": [
+            "master"
+        ]
     }
 }
