@@ -2,9 +2,13 @@
     "repoList": [
         {
             "name": "react-h5-template"
+        },
+        {
+            "name": "react-project-template"
         }
     ],
     "tags": {
-        "react-h5-template": ["master", "main"]
+        "react-h5-template": ["master", "main"],
+        "react-project-template": ["master"],
     }
 }
