@@ -5,6 +5,9 @@
         },
         {
             "name": "react-project-template"
+        },
+        {
+            "name": "mini-web-app"
         }
     ],
     "tags": {
