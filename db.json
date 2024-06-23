@@ -8,6 +8,9 @@
         },
         {
             "name": "mini-web-app"
+        },
+        {
+            "name": "micro-frontend-container"
         }
     ],
     "tags": {
